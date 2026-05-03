@@ -2,7 +2,8 @@
 
 Welcome to the repository for my personal portfolio website! This modern, interactive website was built to showcase my skills, projects, and professional experience as a Full Stack Web Developer.
 
-![Portfolio Screenshot](public/images/screenshot.png)
+![Portfolio Header](public/images/user_shot1.png)
+![Portfolio What I Do](public/images/user_shot2.png)
 
 ### 🌐 Live Website
 Check out the live version here: [https://portfolio-git-main-princekr801s-projects.vercel.app](https://portfolio-git-main-princekr801s-projects.vercel.app)
