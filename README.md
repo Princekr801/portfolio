@@ -33,10 +33,10 @@ Check out the live version here: [https://portfolio-git-main-princekr801s-projec
 
 **© 2026 Suraj Kumar Prince. All Rights Reserved.**
 
-This repository is strictly for **showcasing purposes only**. 
-You are welcome to explore the code to see my development practices, but **you may NOT clone, copy, fork, distribute, or reuse any part of this code or design for your own projects.** 
+This repository is open for **showcasing and learning purposes**. 
+You are very welcome to explore the code to learn from my development practices and animations. However, please do not directly clone or reuse this exact personal portfolio design for yourself.
 
-If you like the design, please build your own from scratch! 
+If you are trying to build your own portfolio and get stuck on a specific feature or animation, please feel free to reach out to me—I'd be happy to help!
 
 ---
 
