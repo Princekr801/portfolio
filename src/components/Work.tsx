@@ -58,21 +58,25 @@ const Work = () => {
               name: "Judicial Helpdesk System",
               category: "Full Stack",
               tools: "React.js, Node.js, Express.js, MongoDB, Tailwind",
+              image: "/images/proj1.png"
             },
             {
               name: "AI Healthcare Predictor",
               category: "Machine Learning / Web",
               tools: "Python, Flask, HTML, CSS, JavaScript",
+              image: "/images/proj2.png"
             },
             {
               name: "Smart Portfolio Website",
               category: "Frontend",
               tools: "React.js, Tailwind CSS, Framer Motion, Vite",
+              image: "/images/proj3.png"
             },
             {
               name: "Real-Time Chat App",
               category: "Full Stack",
               tools: "React.js, Node.js, Socket.io, MongoDB",
+              image: "/images/proj4.png"
             },
           ].map((project, index) => (
             <div className="work-box" key={index}>
@@ -88,7 +92,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>{project.tools}</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt={project.name} />
+              <WorkImage image={project.image} alt={project.name} />
             </div>
           ))}
         </div>

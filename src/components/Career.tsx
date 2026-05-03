@@ -30,7 +30,7 @@ const Career = () => {
                 <h4>Web Development Intern</h4>
                 <h5>Pinnacle Labs Pvt Ltd</h5>
               </div>
-              <h3>2026</h3>
+              <h3>NOW</h3>
             </div>
             <p>
               Currently doing a one-month internship focused on practical web development. Developed and optimized websites, enhanced coding practices, and worked on real-world projects to improve software development skills and problem-solving abilities.
