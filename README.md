@@ -1,65 +1,52 @@
-# My Portfolio Website - Overview 🚀
+# Suraj Kumar Prince - Personal Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to the repository for my personal portfolio website! This modern, interactive website was built to showcase my skills, projects, and professional experience as a Full Stack Web Developer.
 
----
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+### 🌐 Live Website
+Check out the live version here: [https://portfolio-git-main-princekr801s-projects.vercel.app](https://portfolio-git-main-princekr801s-projects.vercel.app)
 
 ---
 
-## 🛠️ Instructions
+## 🚀 Features
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+- **Modern & Interactive UI:** Smooth scrolling and rich animations powered by GSAP.
+- **Dynamic Projects Section:** Highlighting my work including:
+  - Judicial Helpdesk System
+  - AI Healthcare Predictor
+  - Smart Portfolio Website
+  - Real-Time Chat App
+- **Professional Timeline:** A detailed look at my career history and internships.
+- **Fully Responsive:** Looks great on desktop, tablet, and mobile devices.
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+## 🛠️ Technology Stack
 
----
+- **Frontend:** React.js, TypeScript, Vite
+- **Styling:** Tailwind CSS, Custom CSS
+- **Animations:** GSAP (ScrollTrigger, SplitText, ScrollSmoother)
+- **Deployment:** Vercel
 
-## ⚙️ Tech Stack
+## ⚙️ Running Locally
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+To run this project on your local machine:
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Princekr801/portfolio.git
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+## 📬 Contact
+- **Email:** surajkumarprince801@gmail.com
+- **LinkedIn:** [Suraj Kumar Prince](https://www.linkedin.com/in/suraj-kumar-prince-423821227)
+- **GitHub:** [Princekr801](https://github.com/Princekr801)
